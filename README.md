@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Mastery-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4DB33D"/>
-  <img src="https://img.shields.io/github/stars/TanushreeSarkar/HackerRank-SQL-Certification-Solutions?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/TanushreeSarkar/HackerRank-SQL-Certification-Solutions?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/TanushreeSarkar/Hackerrank-SQL-Certificate-Test-Solution?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/TanushreeSarkar/Hackerrank-SQL-Certificate-Test-Solution?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-Compatible-brightgreen?style=for-the-badge&logo=mysql"/>
 </p>
 
